@@ -1,7 +1,5 @@
-/awesome-test/node_modules
-/sample-node-api/node_modules
+node_modules
 .env
-.gitattributes
 .idea
 .DS_Store
 npm-debug.log
